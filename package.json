@@ -1,0 +1,23 @@
+{
+  "name": "gyakorlat",
+  "version": "1.0.0",
+  "description": "lorem ipsum dolor sit amen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tutorial",
+    "ora"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
